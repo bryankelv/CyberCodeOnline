@@ -1,11 +1,11 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Inventory",
+ 	 	 	"trans": "Ransel",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Quest",
+ 	 	 	"trans": "Misi",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
@@ -13,11 +13,11 @@
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
- 	 	 	"trans": "Profile",
+ 	 	 	"trans": "Profil",
  	 	 	"eng": "Profile"
  	 	},
  	 	"map": {
- 	 	 	"trans": "Map",
+ 	 	 	"trans": "Peta",
  	 	 	"eng": "Map"
  	 	}
  	},
@@ -44,7 +44,7 @@
  	 	},
  	 	"printer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Molecular 3d Printer",
+ 	 	 	 	"trans": "3d Printer Molekuler",
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
@@ -54,7 +54,7 @@
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Weapon Smith",
+ 	 	 	 	"trans": "Penempa senjata",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	}
  	 	},
@@ -76,7 +76,7 @@
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaka",
+ 	 	 	 	"trans": "Bank Arasaka",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	}
  	 	}
@@ -106,25 +106,25 @@
  	 	},
  	 	"medical": {
  	 	 	"name": {
- 	 	 	 	"trans": "medical science",
+ 	 	 	 	"trans": "Ilmu medis",
  	 	 	 	"eng": "medical science"
  	 	 	}
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "ammo crafting",
+ 	 	 	 	"trans": "Pembuatan amunisi",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "scavenge skill",
+ 	 	 	 	"trans": "Keterampilan mengais",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "mining skill",
+ 	 	 	 	"trans": "Keterampilan penambangan",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -132,7 +132,7 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La City center",
+ 	 	 	 	"trans": "Pusat Kota Shangri-La",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
@@ -159,13 +159,13 @@
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Kamu dapat menyelesaikan AFK jobs untuk menaikkan skill kamu di sini",
+ 	 	 	 	 	"trans": "Kamu dapat menyelesaikan pekerjaan AFK untuk menaikkan skill kamu di sini",
  	 	 	 	 	"eng": "You can complete AFK jobs to increase your skills here"
  	 	 	 	}
  	 	 	},
  	 	 	"toMarket": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Pergi ke Shangri-La Market Street",
+ 	 	 	 	 	"trans": "Pergi ke Pasar Shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -176,7 +176,7 @@
  	 	},
  	 	"job": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La Commercial Area",
+ 	 	 	 	"trans": "Area Komersial Shangri-La",
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
@@ -192,23 +192,23 @@
  	 	},
  	 	"market": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La Market Street",
+ 	 	 	 	"trans": "Pasar Shangri-La",
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Player Market]\r\n        Market Street yang sangat terkenal di Shangri-La. banyak lapak penjual di sini.\r\n        mungkin kamu dapat menemukan yang kamu cari atau membuka lapak sendiri.",
+ 	 	 	 	"trans": "[Player Market]\r\n        Pasar yang sangat terkenal di Shangri-La. banyak lapak penjual di sini.\r\n        mungkin kamu dapat menemukan yang kamu cari atau membuka lapak sendiri.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Kembali ke Shangri-La City Center",
+ 	 	 	 	 	"trans": "Kembali ke Pusat Kota Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hyper Train Central Station",
+ 	 	 	 	"trans": "Stasiun Pusat Kereta Hyper",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
@@ -219,7 +219,7 @@
  	 	"zone": {
  	 	 	"backToMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Kembali ke city center",
+ 	 	 	 	 	"trans": "Kembali ke Pusat Kota",
  	 	 	 	 	"eng": "Return to ${mainHubName}",
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
@@ -329,31 +329,31 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "sebuah ${typeName} cache mengandung informasi untuk Molecular 3D Printing, \r\n                    Kamu dapat membuat sebuah ${typeName} dengan [Molecular 3d Printer] di [Central Hub].\r\n                    \r\n                    Pro tip: level item yang kamu dapatkan tergantung pada Printing Rank anda,\r\n                    jadi selalu print dengan level trash dulu, karena murah dan berguna untuk menaikkan Printing Rank kamu",
+ 	 	 	 	"trans": "sebuah ${typeName} cache mengandung informasi untuk 3D Printing Molekuler, \r\n                    Kamu dapat membuat sebuah ${typeName} dengan [3d Printer Molekuler] di [Central Hub].\r\n                    \r\n                    Pro tip: level item yang kamu dapatkan tergantung pada Printing Rank anda,\r\n                    jadi selalu print dengan level trash dulu, karena murah dan berguna untuk menaikkan Printing Rank kamu",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
  	 	"helmet": {
  	 	 	"name": {
- 	 	 	 	"trans": "helmet",
+ 	 	 	 	"trans": "helm",
  	 	 	 	"eng": "helmet"
  	 	 	}
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "upper armor",
+ 	 	 	 	"trans": "armor bagian atas",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "lower armor",
+ 	 	 	 	"trans": "armor bagian bawah",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
  	 	"boots": {
  	 	 	"name": {
- 	 	 	 	"trans": "boots",
+ 	 	 	 	"trans": "Sepatu",
  	 	 	 	"eng": "boots"
  	 	 	}
  	 	},
@@ -479,7 +479,7 @@
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of nano machines to heal nearby players",
+ 	 	 	 	"trans": "Mampu untuk mengeluarkan ribuan mesin nano untuk menyembuhkan pemain di sekitar",
  	 	 	 	"eng": "capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -489,7 +489,7 @@
  	 	 	 	"eng": "Military Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of military nano machines to heal nearby players",
+ 	 	 	 	"trans": "Mampu untuk mengeluarkan ribuan mesin nano militer untuk menyembuhkan pemain di sekitar",
  	 	 	 	"eng": "capable of dispatching thousands of military nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -499,7 +499,7 @@
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
+ 	 	 	 	"trans": "Mampu untuk mengeluarkan ribuan mesin nano tingkat tinggi untuk menyembuhkan pemain di sekitar",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -509,7 +509,7 @@
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
+ 	 	 	 	"trans": "Mampu untuk mengeluarkan ribuan mesin nano tingkat tinggi untuk menyembuhkan pemain di sekitar",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -519,7 +519,7 @@
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
+ 	 	 	 	"trans": "Mampu untuk mengeluarkan ribuan mesin nano tingkat tinggi untuk menyembuhkan pemain di sekitar",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -549,7 +549,7 @@
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dapat digunakan untuk BitCoin mining, \r\n        mudah terbakar,\r\n        kamu dapat menggunakannya di [JOB HUB]",
+ 	 	 	 	"trans": "Dapat digunakan untuk penambangan BitCoin, \r\n        mudah terbakar,\r\n        kamu dapat menggunakannya di [JOB HUB]",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
@@ -635,13 +635,13 @@
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Tinker with ammunition, untuk mencari cara yang lebih efektif untuk membuat amunisi.",
+ 	 	 	 	"trans": "Bergerumit dengan amunisi, untuk mencari cara yang lebih efektif untuk membuat amunisi.",
  	 	 	 	"eng": "Tinker with ammunition, to find more effective ways of crafting it."
  	 	 	}
  	 	},
  	 	"reverseEngineer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Reverse Engineer Scraps",
+ 	 	 	 	"trans": "Reverse Engineer tech Scraps untuk meningkatkan level printing. \r\n        Kamu perlu untuk menggunakan sebagian dari tech scrapmu.",
  	 	 	 	"eng": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap."
  	 	 	}
  	 	},
@@ -724,7 +724,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Explore ${zoneName}",
+ 	 	 	 	"trans": "Jelajahi ${zoneName}",
  	 	 	 	"eng": "Explore ${zoneName}"
  	 	 	},
  	 	 	"tut": {
@@ -746,7 +746,7 @@
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        Ada boss yang kuat sedang menunggumu!\r\n                        Direkomendasikan untuk bersama pemain lain.",
+ 	 	 	 	"trans": "Apakah kamu cukup kuat? Coba itu di Challenge Dungeon,\r\n                        Ada boss yang kuat sedang menunggumu!\r\n                        Direkomendasikan untuk mencobanya bersama pemain lain.",
  	 	 	 	"eng": "Are you strong enough? try it out on Challenge Dungeon,\r\n                        there is a strong boss and tons of loot at the end waiting for you!\r\n                        Its recommended to attempt this with other players."
  	 	 	},
  	 	 	"startName": {
